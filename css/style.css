@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 0;
+	font: normal 12px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	color: #cccccc;
+	background-color: #222222;
+}
+a {
+	font: normal 14px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	text-decoration: underline;
+	color: #dce0e2;
+}
+:active, :focus{
+	outline: none;
+}
+#container {
+	margin: 0 auto;
+	padding: 60px 23px 0 23px;
+	width: 800px;
+	text-align: center;
+}
+#albums{
+	font: bold 42px Helvetica, "Helvetica Neue", Arial, sans-serif;
+	margin: 0;
+	display: block;
+	width:800px;
+}
+#player{
+	width:400px;
+	margin:0 auto;
+	padding:60px 0 10px 0;
+}
+
+#copyright{
+	width: 800px;
+	margin: 50px 0 30px 0;
+	color: #888888;
+	display:block;
+}
